@@ -20,6 +20,7 @@
 ### I am Theodor Bigu
 - A Full-Stack Developer & MERN Stack enthusiast.
 - A Computer Science student at University of Bucharest
+- Sushi fan 🍣
 
 
 <div>
