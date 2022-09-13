@@ -18,7 +18,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/theodorbigu/theodorbigu/master/rick.gif" />
 
 ### I am Theodor Bigu
-- A Full-Stack Developer & MERN Stack enthusiast.
+- SWE Intern @ Adobe.
 - A Computer Science student at University of Bucharest
 - Sushi fan 🍣
 
