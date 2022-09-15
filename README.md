@@ -19,7 +19,7 @@
 
 ### I am Theodor Bigu
 - SWE Intern @ Adobe.
-- A Computer Science student at University of Bucharest
+- Computer Science student at University of Bucharest
 - Sushi fan 🍣
 
 
