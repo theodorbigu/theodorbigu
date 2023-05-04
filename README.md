@@ -18,7 +18,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/theodorbigu/theodorbigu/master/rick.gif" />
 
 ### I am Theodor Bigu
-- SWE Intern @ Adobe.
+- SWE @ Adobe.
 - Computer Science student at University of Bucharest
 - Sushi fan 🍣
 
