@@ -19,8 +19,7 @@
 
 ### I am Theodor Bigu
 - SWE @ Adobe.
-- Computer Science student at University of Bucharest
-- Sushi fan 🍣
+- Studied CS at University of Bucharest
 
 
 <div>
